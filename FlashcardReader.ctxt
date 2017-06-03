@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=deck
+comment0.target=FlashcardReader(java.io.File)
+comment1.params=
+comment1.target=java.util.ArrayList\ getFlashcards()
+numComments=2

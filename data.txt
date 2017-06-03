@@ -1,0 +1,4 @@
+a	1	b	2	c	3			
+numbers and letters
+letters and numbers
+only numbers

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=title\ fcards
+comment0.target=Panel(java.lang.String,\ java.util.ArrayList)
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=index\ side
+comment2.target=java.lang.String\ getLabel(int,\ int)
+numComments=3
